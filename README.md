@@ -150,6 +150,6 @@ plt.show()
 >
 > Email: wendybliang38@gmail.com
 >
-> Portfolio: [GitHub](https://github.com/athai1196/AnthonyThai)
+> Portfolio: [GitHub](https://github.com/wendifultimes/wendy-liang)
 >
 > If you have any questions or feedback regarding this project, please don't hesitate to open an issue or submit a pull request.
